@@ -1,0 +1,17 @@
+form{
+    line-height: 1.5em;
+}
+label{font-size: 14px;}
+
+input, select, textarea{
+    font-size: 10px;
+}
+
+.radio label{
+    font-size: 12px;
+}
+
+.checkbox label{
+    font-size: 12px;
+}
+
